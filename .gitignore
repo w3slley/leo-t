@@ -1,0 +1,7 @@
+*.dat
+*.csv
+server/
+results/
+spectra/
+spectra-backup/
+__pycache__/
